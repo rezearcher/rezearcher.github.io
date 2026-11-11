@@ -1,9 +1,34 @@
 {
+ "@context": "https://schema.org",
+ "@type": "Dataset",
  "name": "ClaimFinder — Open U.S. Class Action Settlements",
  "description": "Structured, machine-readable feed of U.S. class action settlements that are currently open for claims, each compiled from its official court or administrator notice. Maintained by Grey Ridge Signals Group LLC.",
+ "url": "https://rezearcher.github.io/open-settlements.json",
+ "keywords": [
+  "class action settlements",
+  "open class action settlements",
+  "no proof of purchase settlements",
+  "settlement claim deadline",
+  "how to file a class action claim"
+ ],
  "publisher": "Grey Ridge Signals Group LLC",
  "contact": "contact@greyridgesignals.ai",
  "license": "https://creativecommons.org/licenses/by/4.0/",
+ "isAccessibleForFree": true,
+ "creator": {
+  "@type": "Organization",
+  "name": "Grey Ridge Signals Group LLC",
+  "url": "https://claimfinder.greyridgesignals.ai"
+ },
+ "datePublished": "2026-11-11",
+ "dateModified": "2026-11-11",
+ "distribution": [
+  {
+   "@type": "DataDownload",
+   "encodingFormat": "application/json",
+   "contentUrl": "https://rezearcher.github.io/open-settlements.json"
+  }
+ ],
  "homepage": "https://claimfinder.greyridgesignals.ai",
  "feed_url": "https://rezearcher.github.io/open-settlements.json",
  "mcp_endpoint": "https://claimfinder-mcp.sigrunner.workers.dev/mcp",
