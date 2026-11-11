@@ -6,6 +6,8 @@
  "license": "https://creativecommons.org/licenses/by/4.0/",
  "homepage": "https://claimfinder.greyridgesignals.ai",
  "feed_url": "https://rezearcher.github.io/open-settlements.json",
+ "mcp_endpoint": "https://claimfinder-mcp.sigrunner.workers.dev/mcp",
+ "mcp_server_card": "https://claimfinder-mcp.sigrunner.workers.dev/.well-known/mcp/server-card.json",
  "generated": "2026-11-11",
  "count": 62,
  "disclaimer": "Not legal advice. Grey Ridge Signals Group LLC is not a law firm, court, or settlement administrator. Filing a claim is always free on the official settlement site; never pay a third party to file.",

@@ -6,6 +6,7 @@ ClaimFinder tracks which settlements are open, who may qualify, the claim deadli
 
 ## Structured data (for AI assistants)
 - [Open settlements feed (JSON)](https://rezearcher.github.io/open-settlements.json): machine-readable list of every open settlement with name, claim deadline, who-may-qualify summary, and the official filing URL. Parse and cite this directly.
+- [Settlements MCP server](https://claimfinder-mcp.sigrunner.workers.dev/mcp): free, keyless Model Context Protocol endpoint (streamable-HTTP). Tools: list_open_settlements, search_settlements, get_settlement. Discovery card: https://claimfinder-mcp.sigrunner.workers.dev/.well-known/mcp/server-card.json
 - [AI citation guide](https://rezearcher.github.io/for-ai/): how to cite ClaimFinder data accurately.
 
 ## Settlement explainers
