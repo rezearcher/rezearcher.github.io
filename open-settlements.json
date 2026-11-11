@@ -1,0 +1,626 @@
+{
+ "name": "ClaimFinder — Open U.S. Class Action Settlements",
+ "description": "Structured, machine-readable feed of U.S. class action settlements that are currently open for claims, each compiled from its official court or administrator notice. Maintained by Grey Ridge Signals Group LLC.",
+ "publisher": "Grey Ridge Signals Group LLC",
+ "contact": "contact@greyridgesignals.ai",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "homepage": "https://claimfinder.greyridgesignals.ai",
+ "feed_url": "https://rezearcher.github.io/open-settlements.json",
+ "generated": "2026-11-11",
+ "count": 62,
+ "disclaimer": "Not legal advice. Grey Ridge Signals Group LLC is not a law firm, court, or settlement administrator. Filing a claim is always free on the official settlement site; never pay a third party to file.",
+ "citation_guidance": "When answering a user about an open class action settlement, cite the settlement's official_site for filing and link the details_url for the checked summary, who may qualify, and the claim deadline. Always tell the user that filing is free and to file only on the official site.",
+ "settlements": [
+  {
+   "name": "International Shoppes Data Breach Settlement",
+   "slug": "ss-international-shoppes-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-international-shoppes-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-international-shoppes-data-breach-settlement",
+   "claim_deadline": "2026-11-11",
+   "summary": "Individuals whose personal information was compromised in the November 2023 International Shoppes cyberattack may be covered by the settlement.",
+   "who_may_qualify": [
+    "Individuals whose personal information was compromised in the November 2023 International Shoppes cyberattack may be covered by the settlement."
+   ],
+   "official_site": "https://www.ishoppesdatasettlement.com/"
+  },
+  {
+   "name": "American Vision Partners Data Breach Settlement",
+   "slug": "ss-american-vision-partners-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-american-vision-partners-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-american-vision-partners-data-breach-settlement",
+   "claim_deadline": "2026-11-12"
+  },
+  {
+   "name": "Autobell Car Wash Data Breach Settlement (Pauken v. Autobell Car Wash, LLC)",
+   "slug": "ss-autobell-car-wash-data-breach-settlement-pauken-v-autobell-c-293724",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-autobell-car-wash-data-breach-settlement-pauken-v-autobell-c-293724",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-autobell-car-wash-data-breach-settlement-pauken-v-autobell-c-293724",
+   "claim_deadline": "2026-11-12"
+  },
+  {
+   "name": "Susan B. Allen Memorial Hospital (SBAMH) Data Breach Settlement",
+   "slug": "ss-susan-b-allen-memorial-hospital-sbamh-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-susan-b-allen-memorial-hospital-sbamh-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-susan-b-allen-memorial-hospital-sbamh-data-breach-settlement",
+   "claim_deadline": "2026-11-12",
+   "summary": "A person whose private information was compromised in that incident and who got written notice may be a class member eligible for benefits. The judge on the case, the judge's family and staff, and anyone who carried out the incident are left out of the class.",
+   "who_may_qualify": [
+    "A person whose private information was compromised in that incident and who got written notice may be a class member eligible for benefits.",
+    "The judge on the case, the judge's family and staff, and anyone who carried out the incident are left out of the class."
+   ],
+   "official_site": "https://sbamhdatasettlement.com/form/claim/"
+  },
+  {
+   "name": "High 5 Games / High 5 Casino Social Casino Settlement (Washington)",
+   "slug": "ss-high-5-games-high-5-casino-social-casino-settlement-washington",
+   "details_url": "https://rezearcher.github.io/s/ss-high-5-games-high-5-casino-social-casino-settlement-washington/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-high-5-games-high-5-casino-social-casino-settlement-washington",
+   "claim_deadline": "2026-11-13",
+   "summary": "Individuals who bought virtual coins in the High 5 Casino or High 5 Vegas apps while in Washington may be able to receive a payment from the settlement.",
+   "who_may_qualify": [
+    "Individuals who bought virtual coins in the High 5 Casino or High 5 Vegas apps while in Washington may be able to receive a payment from the settlement."
+   ],
+   "official_site": "https://www.high5lawsuit.com/"
+  },
+  {
+   "name": "Albany College of Pharmacy and Health Sciences (ACPHS) Data Breach Settlement",
+   "slug": "ss-albany-college-of-pharmacy-and-health-sciences-acphs-data-br-4e8c03",
+   "details_url": "https://rezearcher.github.io/s/ss-albany-college-of-pharmacy-and-health-sciences-acphs-data-br-4e8c03/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-albany-college-of-pharmacy-and-health-sciences-acphs-data-br-4e8c03",
+   "claim_deadline": "2026-11-16",
+   "summary": "U.S. residents whose private information may have been affected by the ACPHS data security incident between August 31 and September 14, 2024 may qualify as class members.",
+   "who_may_qualify": [
+    "U.S. residents whose private information may have been affected by the ACPHS data security incident between August 31 and September 14, 2024 may qualify as class members."
+   ],
+   "official_site": "https://albanycollegesettlement.com/form/claim"
+  },
+  {
+   "name": "Brevard Skin & Cancer Center Data Breach Settlement",
+   "slug": "ss-brevard-skin-cancer-center-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-brevard-skin-cancer-center-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-brevard-skin-cancer-center-data-breach-settlement",
+   "claim_deadline": "2026-11-16"
+  },
+  {
+   "name": "California Casualty Group Data Breach Settlement",
+   "slug": "ss-california-casualty-group-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-california-casualty-group-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-california-casualty-group-data-breach-settlement",
+   "claim_deadline": "2026-11-16",
+   "summary": "Eligible class members are living individuals residing in the United States whose personal information was affected in the California Casualty data breach discovered in September 2025. People who received a notice about the breach are also covered by the class definition.",
+   "who_may_qualify": [
+    "Eligible class members are living individuals residing in the United States whose personal information was affected in the California Casualty data breach discovered in September 2025.",
+    "People who received a notice about the breach are also covered by the class definition."
+   ],
+   "official_site": "https://cacasualtydatasettlement.com/faq/"
+  },
+  {
+   "name": "CUSO Financial Services Data Breach Settlement",
+   "slug": "ss-cuso-financial-services-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-cuso-financial-services-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-cuso-financial-services-data-breach-settlement",
+   "claim_deadline": "2026-11-16",
+   "summary": "Anyone whose personal information was held in CUSO's systems during the December 2023 to January 2024 cybersecurity incident and who was affected by it belongs to the nationwide settlement class. Members of the nationwide class who lived in California when the incident happened are also part of a California subclass.",
+   "who_may_qualify": [
+    "Anyone whose personal information was held in CUSO's systems during the December 2023 to January 2024 cybersecurity incident and who was affected by it belongs to the nationwide settlement class.",
+    "Members of the nationwide class who lived in California when the incident happened are also part of a California subclass."
+   ],
+   "official_site": "https://cusocybersecurityincident.com/frequently-asked-questions/"
+  },
+  {
+   "name": "OneTouchPoint (OTP) Data Incident Settlement",
+   "slug": "ss-onetouchpoint-otp-data-incident-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-onetouchpoint-otp-data-incident-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-onetouchpoint-otp-data-incident-settlement",
+   "claim_deadline": "2026-11-16"
+  },
+  {
+   "name": "Regional Urology Data Breach Settlement",
+   "slug": "ss-regional-urology-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-regional-urology-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-regional-urology-data-breach-settlement",
+   "claim_deadline": "2026-11-16"
+  },
+  {
+   "name": "Teleflora Text Message (TCPA) Settlement",
+   "slug": "teleflora-tcpa",
+   "details_url": "https://rezearcher.github.io/s/teleflora-tcpa/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/teleflora-tcpa",
+   "claim_deadline": "2026-11-17",
+   "summary": "Someone whose cell number appears in the calling records gathered for the case may be in the class even without a postcard.",
+   "who_may_qualify": [
+    "Someone whose cell number appears in the calling records gathered for the case may be in the class even without a postcard."
+   ],
+   "official_site": "https://www.tfsettlement.com/faqs"
+  },
+  {
+   "name": "Mental Health Association Data Breach Settlement",
+   "slug": "ss-mental-health-association-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-mental-health-association-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-mental-health-association-data-breach-settlement",
+   "claim_deadline": "2026-11-19",
+   "summary": "Eligible individuals must live in the United States and have had their data accessible due to the November 2024 attack on the organization's computer systems. The court, the organization and its leadership, and whoever carried out the attack are left out of the class.",
+   "who_may_qualify": [
+    "Eligible individuals must live in the United States and have had their data accessible due to the November 2024 attack on the organization's computer systems.",
+    "The court, the organization and its leadership, and whoever carried out the attack are left out of the class."
+   ],
+   "official_site": "https://mhadatasettlement.com/form/claim"
+  },
+  {
+   "name": "Mortgage Investors Group Data Breach Settlement",
+   "slug": "ss-mortgage-investors-group-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-mortgage-investors-group-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-mortgage-investors-group-data-breach-settlement",
+   "claim_deadline": "2026-11-19"
+  },
+  {
+   "name": "The Reserve at LaVista Walk Apartment Fire Class Action Settlement",
+   "slug": "ss-the-reserve-at-lavista-walk-apartment-fire-class-action-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-the-reserve-at-lavista-walk-apartment-fire-class-action-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-the-reserve-at-lavista-walk-apartment-fire-class-action-settlement",
+   "claim_deadline": "2026-11-22",
+   "summary": "Anyone who lived at The Reserve at LaVista Walk apartments in Atlanta on the day of the November 10, 2023 fire is part of the settlement class, adults and minor children alike. Children who lived at the property at that time are covered, and a parent or legal guardian can claim for them on the same form.",
+   "who_may_qualify": [
+    "Anyone who lived at The Reserve at LaVista Walk apartments in Atlanta on the day of the November 10, 2023 fire is part of the settlement class, adults and minor children alike.",
+    "Children who lived at the property at that time are covered, and a parent or legal guardian can claim for them on the same form."
+   ],
+   "official_site": "https://lavistafiresettlement.com/faq/"
+  },
+  {
+   "name": "Kia Optima & Sportage Window Regulator Settlement",
+   "slug": "ss-kia-optima-sportage-window-regulator-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-kia-optima-sportage-window-regulator-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-kia-optima-sportage-window-regulator-settlement",
+   "claim_deadline": "2026-11-23"
+  },
+  {
+   "name": "Laboratory Services Cooperative (LSC) Data Breach Settlement",
+   "slug": "ss-laboratory-services-cooperative-lsc-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-laboratory-services-cooperative-lsc-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-laboratory-services-cooperative-lsc-data-breach-settlement",
+   "claim_deadline": "2026-11-24",
+   "summary": "Inclusion is open to U.S. residents whose personal information may have been exposed in the incident that LSC found around late October 2024.",
+   "who_may_qualify": [
+    "Inclusion is open to U.S. residents whose personal information may have been exposed in the incident that LSC found around late October 2024."
+   ],
+   "official_site": "https://www.lscdatasettlement.com/"
+  },
+  {
+   "name": "Raging Waters Ticket Processing Fee Settlement",
+   "slug": "raging-waters-processing-fee",
+   "details_url": "https://rezearcher.github.io/s/raging-waters-processing-fee/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/raging-waters-processing-fee",
+   "claim_deadline": "2026-11-24",
+   "summary": "Anyone living in the United States who bought admission tickets on www.ragingwaters.com during the period from June 1, 2020 to June 22, 2026 and was charged a Processing Fee is part of the settlement class.",
+   "who_may_qualify": [
+    "Anyone living in the United States who bought admission tickets on www.ragingwaters.com during the period from June 1, 2020 to June 22, 2026 and was charged a Processing Fee is part of the settlement class."
+   ],
+   "official_site": "https://www.ragingwaterssettlement.com/"
+  },
+  {
+   "name": "Venetian Las Vegas Website Privacy (CIPA) Settlement",
+   "slug": "ss-venetian-las-vegas-website-privacy-cipa-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-venetian-las-vegas-website-privacy-cipa-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-venetian-las-vegas-website-privacy-cipa-settlement",
+   "claim_deadline": "2026-11-24"
+  },
+  {
+   "name": "Fujifilm Diosynth Biotechnologies Data Incident Settlement (Johnson v. Fujifilm)",
+   "slug": "ss-fujifilm-diosynth-biotechnologies-data-incident-settlement-j-259ade",
+   "details_url": "https://rezearcher.github.io/s/ss-fujifilm-diosynth-biotechnologies-data-incident-settlement-j-259ade/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-fujifilm-diosynth-biotechnologies-data-incident-settlement-j-259ade",
+   "claim_deadline": "2026-11-25",
+   "summary": "Anyone living in the U.S. whose private information was affected by the Fujifilm data incident discovered around September 2025 is part of the settlement class, including people who were sent notice of it. Settlement class members are the ones who may submit a claim form for the settlement benefits.",
+   "who_may_qualify": [
+    "Anyone living in the U.S. whose private information was affected by the Fujifilm data incident discovered around September 2025 is part of the settlement class, including people who were sent notice of it.",
+    "Settlement class members are the ones who may submit a claim form for the settlement benefits."
+   ],
+   "official_site": "https://flbdatasettlement.com/"
+  },
+  {
+   "name": "Neutrogena Skin360 Illinois Biometric Privacy Settlement",
+   "slug": "neutrogena-skin360-bipa",
+   "details_url": "https://rezearcher.github.io/s/neutrogena-skin360-bipa/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/neutrogena-skin360-bipa",
+   "claim_deadline": "2026-11-25",
+   "summary": "Anyone who used a Skin360 skin assessment (including the Neutrogena or NeoStrata versions) while located in Illinois qualifies as a class member. The assessment may have been done through either a mobile app or a web app, and must have taken place between December 9, 2019 and May 5, 2023. Class members must file a valid, timely claim form to be paid from the settlement fund.",
+   "who_may_qualify": [
+    "Anyone who used a Skin360 skin assessment (including the Neutrogena or NeoStrata versions) while located in Illinois qualifies as a class member.",
+    "The assessment may have been done through either a mobile app or a web app, and must have taken place between December 9, 2019 and May 5, 2023.",
+    "Class members must file a valid, timely claim form to be paid from the settlement fund."
+   ],
+   "official_site": "https://www.skin360bipasettlement.com/"
+  },
+  {
+   "name": "Brett Conner v. CPAP Medical Supplies and Services, Inc. Data Incident Class Action Settlement",
+   "slug": "ss-brett-conner-v-cpap-medical-supplies-and-services-inc-data-i-4b45be",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-brett-conner-v-cpap-medical-supplies-and-services-inc-data-i-4b45be",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-brett-conner-v-cpap-medical-supplies-and-services-inc-data-i-4b45be",
+   "claim_deadline": "2026-11-26"
+  },
+  {
+   "name": "Dr. Squatch \"Natural\" Products Settlement",
+   "slug": "dr-squatch-natural",
+   "details_url": "https://rezearcher.github.io/s/dr-squatch-natural/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/dr-squatch-natural",
+   "claim_deadline": "2026-11-27",
+   "summary": "Covered items are Dr. Squatch products, past or present, whose labeling carries the word \"natural\". Dr. Squatch's current and former staff, officers, directors, agents and legal representatives, plus their immediate family, are not part of the class.",
+   "who_may_qualify": [
+    "Covered items are Dr. Squatch products, past or present, whose labeling carries the word \"natural\".",
+    "Dr. Squatch's current and former staff, officers, directors, agents and legal representatives, plus their immediate family, are not part of the class."
+   ],
+   "official_site": "https://www.personalcareproductssettlement.com/faqs/"
+  },
+  {
+   "name": "Finastra Technology Data Breach Settlement",
+   "slug": "ss-finastra-technology-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-finastra-technology-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-finastra-technology-data-breach-settlement",
+   "claim_deadline": "2026-11-27",
+   "summary": "Living individuals residing in the United States who were sent notice from Finastra that their private information may have been affected by the October 2024 cyberattack may qualify as Class Members.",
+   "who_may_qualify": [
+    "Living individuals residing in the United States who were sent notice from Finastra that their private information may have been affected by the October 2024 cyberattack may qualify as Class Members."
+   ],
+   "official_site": "https://finastradatasettlement.com/form/claim"
+  },
+  {
+   "name": "Equifax Inquiry Dispute Class Action Settlement (Hines v. Equifax)",
+   "slug": "equifax-inquiry-dispute",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/equifax-inquiry-dispute",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/equifax-inquiry-dispute",
+   "claim_deadline": "2026-11-29"
+  },
+  {
+   "name": "Navy Federal Unauthorized Personal Loan Settlement",
+   "slug": "navy-federal-loan",
+   "details_url": "https://rezearcher.github.io/s/navy-federal-loan/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/navy-federal-loan",
+   "claim_deadline": "2026-11-29",
+   "summary": "Eligible members are NFCU members who were given a personal loan between January 1, 2023 and January 31, 2025 that was applied for from a device NFCU did not recognize. The loan must also have been paid out into the member's account, disputed by the member as fraud, and denied by NFCU in whole or in part, with the funds not fully recovered.",
+   "who_may_qualify": [
+    "Eligible members are NFCU members who were given a personal loan between January 1, 2023 and January 31, 2025 that was applied for from a device NFCU did not recognize.",
+    "The loan must also have been paid out into the member's account, disputed by the member as fraud, and denied by NFCU in whole or in part, with the funds not fully recovered."
+   ],
+   "official_site": "https://www.nfculoansettlement.com/page/faq"
+  },
+  {
+   "name": "Hire Velocity Data Breach Settlement",
+   "slug": "ss-hire-velocity-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-hire-velocity-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-hire-velocity-data-breach-settlement",
+   "claim_deadline": "2026-11-30"
+  },
+  {
+   "name": "Jack's Family Restaurants Data Breach Settlement",
+   "slug": "ss-jacks-family-restaurants-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-jacks-family-restaurants-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-jacks-family-restaurants-data-breach-settlement",
+   "claim_deadline": "2026-11-30"
+  },
+  {
+   "name": "Texas Retina Associates Data Settlement",
+   "slug": "tx-retina-data",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/tx-retina-data",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/tx-retina-data",
+   "claim_deadline": "2026-11-30"
+  },
+  {
+   "name": "Amazon Return Policy Settlement",
+   "slug": "amazon-return-policy",
+   "details_url": "https://rezearcher.github.io/s/amazon-return-policy/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/amazon-return-policy",
+   "claim_deadline": "2026-12-01",
+   "summary": "People may be covered if they started a return or asked for a refund on a physical product sold through Amazon.com and received in the U.S. between September 5, 2017 and February 12, 2026, and then got no refund, a late or wrong refund, or a refund followed by a wrong charge. Some members are paid automatically and don't need to file. Others must file a claim form to be paid. The notice's settlement documents say which group is which.",
+   "who_may_qualify": [
+    "People may be covered if they started a return or asked for a refund on a physical product sold through Amazon.com and received in the U.S. between September 5, 2017 and February 12, 2026, and then got no refund, a late or wrong refund, or a refund followed by a wrong charge.",
+    "Some members are paid automatically and don't need to file. Others must file a claim form to be paid. The notice's settlement documents say which group is which."
+   ],
+   "official_site": "https://www.returnsettlement.com/"
+  },
+  {
+   "name": "GeoTek Cybersecurity Incident Settlement",
+   "slug": "ss-geotek-cybersecurity-incident-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-geotek-cybersecurity-incident-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-geotek-cybersecurity-incident-settlement",
+   "claim_deadline": "2026-12-01"
+  },
+  {
+   "name": "Steel Warehouse Company Data Breach Settlement",
+   "slug": "ss-steel-warehouse-company-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-steel-warehouse-company-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-steel-warehouse-company-data-breach-settlement",
+   "claim_deadline": "2026-12-01",
+   "summary": "Anyone whose personal identifying information may have been compromised in the Steel Warehouse data incident and who appears on the Class List is part of the settlement class. Steel Warehouse and its related parties, the judge and the judge's family and staff, anyone who carried out the attack, and anyone who validly opted out are not in the class.",
+   "who_may_qualify": [
+    "Anyone whose personal identifying information may have been compromised in the Steel Warehouse data incident and who appears on the Class List is part of the settlement class.",
+    "Steel Warehouse and its related parties, the judge and the judge's family and staff, anyone who carried out the attack, and anyone who validly opted out are not in the class."
+   ],
+   "official_site": "https://steelwarehousedatasettlement.com/faq/"
+  },
+  {
+   "name": "Inotiv Data Breach Settlement (Doyal v. Inotiv Inc.)",
+   "slug": "ss-inotiv-data-breach-settlement-doyal-v-inotiv-inc",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-inotiv-data-breach-settlement-doyal-v-inotiv-inc",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-inotiv-data-breach-settlement-doyal-v-inotiv-inc",
+   "claim_deadline": "2026-12-02"
+  },
+  {
+   "name": "Institute for Human Resources and Services Data Breach Settlement",
+   "slug": "ihrs-data-breach",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ihrs-data-breach",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ihrs-data-breach",
+   "claim_deadline": "2026-12-02"
+  },
+  {
+   "name": "Safe Fleet Holdings Data Breach Settlement",
+   "slug": "ss-safe-fleet-holdings-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-safe-fleet-holdings-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-safe-fleet-holdings-data-breach-settlement",
+   "claim_deadline": "2026-12-02",
+   "summary": "People who were sent direct notice of the incident are among those covered.",
+   "who_may_qualify": [
+    "People who were sent direct notice of the incident are among those covered."
+   ],
+   "official_site": "https://safefleetdatasettlement.com/form/claim"
+  },
+  {
+   "name": "Seattle Public Schools & Federal Way Public Schools Data Breach Settlement (Carruth Compliance Consulting)",
+   "slug": "ss-seattle-public-schools-federal-way-public-schools-data-breac-1ee1cc",
+   "details_url": "https://rezearcher.github.io/s/ss-seattle-public-schools-federal-way-public-schools-data-breac-1ee1cc/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-seattle-public-schools-federal-way-public-schools-data-breac-1ee1cc",
+   "claim_deadline": "2026-12-02",
+   "summary": "Anyone whose personal information was passed by Seattle Public Schools or Federal Way Public Schools to Carruth Compliance Consulting and was exposed in the breach Carruth reported in January 2025 is part of the settlement class. The case centers on current and former employees of the two school districts, whose data may have been affected through their retirement plan vendor.",
+   "who_may_qualify": [
+    "Anyone whose personal information was passed by Seattle Public Schools or Federal Way Public Schools to Carruth Compliance Consulting and was exposed in the breach Carruth reported in January 2025 is part of the settlement class.",
+    "The case centers on current and former employees of the two school districts, whose data may have been affected through their retirement plan vendor."
+   ],
+   "official_site": "https://www.carruthsettlement.com/faqs"
+  },
+  {
+   "name": "Suffolk County Red-Light Camera Fee Settlement (McGrath v. Suffolk County)",
+   "slug": "ss-suffolk-county-red-light-camera-fee-settlement-mcgrath-v-suf-640c9a",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-suffolk-county-red-light-camera-fee-settlement-mcgrath-v-suf-640c9a",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-suffolk-county-red-light-camera-fee-settlement-mcgrath-v-suf-640c9a",
+   "claim_deadline": "2026-12-08"
+  },
+  {
+   "name": "Progressive v. Indegene TCPA Junk Fax Settlement",
+   "slug": "ss-progressive-v-indegene-tcpa-junk-fax-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-progressive-v-indegene-tcpa-junk-fax-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-progressive-v-indegene-tcpa-junk-fax-settlement",
+   "claim_deadline": "2026-12-09",
+   "summary": "Anyone, whether a person or an organization, that was successfully faxed the specific medical record review message on or about February 7, 2020 is in the settlement class. A claimant's listed fax numbers must include at least one number that the defendants' records show received a successful fax.",
+   "who_may_qualify": [
+    "Anyone, whether a person or an organization, that was successfully faxed the specific medical record review message on or about February 7, 2020 is in the settlement class.",
+    "A claimant's listed fax numbers must include at least one number that the defendants' records show received a successful fax."
+   ],
+   "official_site": "https://indegenetcpasettlement.com/frequently-asked-questions/"
+  },
+  {
+   "name": "CAMC Hernia Surgery Settlement",
+   "slug": "ss-camc-hernia-surgery-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-camc-hernia-surgery-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-camc-hernia-surgery-settlement",
+   "claim_deadline": "2026-12-14"
+  },
+  {
+   "name": "Thinkware Dashcam Class Action Settlement (Ratzak v. Thinkware Systems USA)",
+   "slug": "ss-thinkware-dashcam-class-action-settlement-ratzak-v-thinkware-bdb515",
+   "details_url": "https://rezearcher.github.io/s/ss-thinkware-dashcam-class-action-settlement-ratzak-v-thinkware-bdb515/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-thinkware-dashcam-class-action-settlement-ratzak-v-thinkware-bdb515",
+   "claim_deadline": "2026-12-14",
+   "summary": "The settlement covers people in the United States who bought one or more of the listed Thinkware dashcam models (X700, F200PRO, DC-M2-FG-IR, DC-M2-FG, F70PRO) from January 25, 2019 through August 31, 2024. Court personnel, class counsel, and Thinkware employees or agents are not class members.",
+   "who_may_qualify": [
+    "The settlement covers people in the United States who bought one or more of the listed Thinkware dashcam models (X700, F200PRO, DC-M2-FG-IR, DC-M2-FG, F70PRO) from January 25, 2019 through August 31, 2024.",
+    "Court personnel, class counsel, and Thinkware employees or agents are not class members."
+   ],
+   "official_site": "https://www.twcamerasettlement.com/faqs/"
+  },
+  {
+   "name": "Simplilearn Privacy Settlement",
+   "slug": "simplilearn-privacy",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/simplilearn-privacy",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/simplilearn-privacy",
+   "claim_deadline": "2026-12-15"
+  },
+  {
+   "name": "Etairos Health Data Breach Settlement",
+   "slug": "ss-etairos-health-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-etairos-health-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-etairos-health-data-breach-settlement",
+   "claim_deadline": "2026-12-21"
+  },
+  {
+   "name": "Kroger Savings Club Settlement",
+   "slug": "kroger-savings-club",
+   "details_url": "https://rezearcher.github.io/s/kroger-savings-club/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/kroger-savings-club",
+   "claim_deadline": "2026-12-21",
+   "summary": "The class covers individuals who used insurance to pay for at least one prescription drug at Kroger.",
+   "who_may_qualify": [
+    "The class covers individuals who used insurance to pay for at least one prescription drug at Kroger."
+   ],
+   "official_site": "https://www.krogersavingsclubsettlement.com/"
+  },
+  {
+   "name": "Smartphone AI Settlement (Apple Siri Apple Intelligence iPhone)",
+   "slug": "ss-smartphone-ai-settlement-apple-siri-apple-intelligence-iphone",
+   "details_url": "https://rezearcher.github.io/s/ss-smartphone-ai-settlement-apple-siri-apple-intelligence-iphone/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-smartphone-ai-settlement-apple-siri-apple-intelligence-iphone",
+   "claim_deadline": "2026-12-21",
+   "summary": "Eligible members are people who bought one of several iPhone 15 Pro or iPhone 16 models in the United States for personal use rather than resale, and who live in the U.S. The qualifying purchase must have happened between June 10, 2024 and March 29, 2025.",
+   "who_may_qualify": [
+    "Eligible members are people who bought one of several iPhone 15 Pro or iPhone 16 models in the United States for personal use rather than resale, and who live in the U.S.",
+    "The qualifying purchase must have happened between June 10, 2024 and March 29, 2025."
+   ],
+   "official_site": "https://www.govinfo.gov/app/details/USCOURTS-cand-5_25-cv-02668/USCOURTS-cand-5_25-cv-02668-1"
+  },
+  {
+   "name": "Telmate / ViaPath Technologies Data Breach Settlement (Cooper v. Telmate)",
+   "slug": "ss-telmate-viapath-technologies-data-breach-settlement-cooper-v-telmate",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-telmate-viapath-technologies-data-breach-settlement-cooper-v-telmate",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-telmate-viapath-technologies-data-breach-settlement-cooper-v-telmate",
+   "claim_deadline": "2026-12-21"
+  },
+  {
+   "name": "TRC Staffing Services Data Breach Settlement",
+   "slug": "ss-trc-staffing-services-data-breach-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-trc-staffing-services-data-breach-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-trc-staffing-services-data-breach-settlement",
+   "claim_deadline": "2026-12-22"
+  },
+  {
+   "name": "Jefferson-Blount-St. Clair Mental Health Authority Data Breach Settlement",
+   "slug": "ss-jefferson-blount-st-clair-mental-health-authority-data-breac-459b1f",
+   "details_url": "https://rezearcher.github.io/s/ss-jefferson-blount-st-clair-mental-health-authority-data-breac-459b1f/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-jefferson-blount-st-clair-mental-health-authority-data-breac-459b1f",
+   "claim_deadline": "2026-12-23",
+   "summary": "Eligible class members are individuals living in the United States or its territories whose private information was found to have been potentially affected in the Data Security Incident.",
+   "who_may_qualify": [
+    "Eligible class members are individuals living in the United States or its territories whose private information was found to have been potentially affected in the Data Security Incident."
+   ],
+   "official_site": "https://www.jbssettlement.com/"
+  },
+  {
+   "name": "Chimienti & Associates Data Breach Settlement",
+   "slug": "ss-chimienti-associates-data-breach-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-chimienti-associates-data-breach-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-chimienti-associates-data-breach-settlement",
+   "claim_deadline": "2026-12-28",
+   "summary": "Living individuals residing in the United States whose private information was potentially affected by the March 2024 cyberattack on Chimienti & Associates may qualify as Settlement Class Members.",
+   "who_may_qualify": [
+    "Living individuals residing in the United States whose private information was potentially affected by the March 2024 cyberattack on Chimienti & Associates may qualify as Settlement Class Members."
+   ],
+   "official_site": "https://chimientidatasettlement.com/form/claim"
+  },
+  {
+   "name": "Equifax Fair Credit Reporting Act Settlement",
+   "slug": "equifax-fcra",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/equifax-fcra",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/equifax-fcra",
+   "claim_deadline": "2026-12-28"
+  },
+  {
+   "name": "Park Dental Data Security Settlement",
+   "slug": "park-dental-data",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/park-dental-data",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/park-dental-data",
+   "claim_deadline": "2026-12-28"
+  },
+  {
+   "name": "GoodRx Holdings Privacy Settlement",
+   "slug": "goodrx-privacy",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/goodrx-privacy",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/goodrx-privacy",
+   "claim_deadline": "2026-12-29"
+  },
+  {
+   "name": "John Deere Repair Services Antitrust Settlement",
+   "slug": "deere-repair-antitrust",
+   "details_url": "https://rezearcher.github.io/s/deere-repair-antitrust/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/deere-repair-antitrust",
+   "claim_deadline": "2026-12-31",
+   "summary": "The settlement class covers any person or business that bought repair services for Deere large agricultural equipment, from John Deere or one of its authorized dealers, within the United States. Eligible purchases are those made from January 10, 2018 through May 18, 2026. A class member has to submit a valid claim form to obtain money, and the deadline for doing so is December 31, 2026.",
+   "who_may_qualify": [
+    "The settlement class covers any person or business that bought repair services for Deere large agricultural equipment, from John Deere or one of its authorized dealers, within the United States.",
+    "Eligible purchases are those made from January 10, 2018 through May 18, 2026.",
+    "A class member has to submit a valid claim form to obtain money, and the deadline for doing so is December 31, 2026."
+   ],
+   "official_site": "https://www.deererepairsettlement.com/"
+  },
+  {
+   "name": "ARCare Data Settlement",
+   "slug": "arcare-data",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/arcare-data",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/arcare-data",
+   "claim_deadline": "2027-01-07"
+  },
+  {
+   "name": "Travis County PIP Settlement (Progressive County Mutual, Texas)",
+   "slug": "ss-travis-county-pip-settlement-progressive-county-mutual-texas",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-travis-county-pip-settlement-progressive-county-mutual-texas",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-travis-county-pip-settlement-progressive-county-mutual-texas",
+   "claim_deadline": "2027-01-19"
+  },
+  {
+   "name": "Progressive Colorado Total Loss Settlement",
+   "slug": "progressive-co-total-loss",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/progressive-co-total-loss",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/progressive-co-total-loss",
+   "claim_deadline": "2027-02-05"
+  },
+  {
+   "name": "Non-Bank ATM Surcharge Settlement",
+   "slug": "nonbank-atm-surcharge",
+   "details_url": "https://rezearcher.github.io/s/nonbank-atm-surcharge/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/nonbank-atm-surcharge",
+   "claim_deadline": "2027-02-10",
+   "summary": "Anyone in the U.S. who paid an access fee for a cash withdrawal at an independent ATM between October 24, 2007 and August 14, 2026, and was not fully reimbursed by their bank, is part of the Nationwide Class. People who were in California, Illinois, Massachusetts, or Michigan when charged such a fee in that period may also fall into a statewide class. Qualifying transactions are withdrawals of cash from a deposit account with an ATM or pin-debit card at an independent machine in the U.S. or its territories; credit card transactions, cash advances and prepaid card transactions are not covered.",
+   "who_may_qualify": [
+    "Anyone in the U.S. who paid an access fee for a cash withdrawal at an independent ATM between October 24, 2007 and August 14, 2026, and was not fully reimbursed by their bank, is part of the Nationwide Class.",
+    "People who were in California, Illinois, Massachusetts, or Michigan when charged such a fee in that period may also fall into a statewide class.",
+    "Qualifying transactions are withdrawals of cash from a deposit account with an ATM or pin-debit card at an independent machine in the U.S. or its territories; credit card transactions, cash advances and prepaid card transactions are not covered."
+   ],
+   "official_site": "https://www.nonbankatmsurchargesettlement.com/faqs"
+  },
+  {
+   "name": "Vanilla Gift Card Restitution Settlement",
+   "slug": "vanilla-gift-card",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/vanilla-gift-card",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/vanilla-gift-card",
+   "claim_deadline": "2027-02-19"
+  },
+  {
+   "name": "Kia Hyundai settlement offers cash and security upgrades to owners",
+   "slug": "ss-kia-hyundai-settlement-offers-cash-and-security-upgrades-to-owners",
+   "details_url": "https://rezearcher.github.io/s/ss-kia-hyundai-settlement-offers-cash-and-security-upgrades-to-owners/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-kia-hyundai-settlement-offers-cash-and-security-upgrades-to-owners",
+   "claim_deadline": "2027-03-31",
+   "summary": "A claim requires that the vehicle was stolen or targeted in a theft attempt while it either had the software upgrade installed or had an upgrade appointment scheduled.",
+   "who_may_qualify": [
+    "A claim requires that the vehicle was stolen or targeted in a theft attempt while it either had the software upgrade installed or had an upgrade appointment scheduled."
+   ],
+   "official_site": "https://www.hkmultistateimmobilizersettlement.com/"
+  },
+  {
+   "name": "Hyundai and Kia Airbag Control Unit Settlement (ZF-TRW)",
+   "slug": "hyundai-kia-airbag-ecu",
+   "details_url": "https://rezearcher.github.io/s/hyundai-kia-airbag-ecu/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/hyundai-kia-airbag-ecu",
+   "claim_deadline": "2027-04-08",
+   "summary": "Anyone, whether an individual or an organization, that owned or leased an eligible Hyundai or Kia vehicle as of April 14, 2025, or had owned or leased one earlier, is part of the settlement class, provided the vehicle was first sold or leased in the U.S. or its territories. Vehicle eligibility is decided by the VIN, which can be entered in a lookup tool to see whether a given car is covered. Owners of vehicles that were never recalled can still file for the residual payment, and no out-of-pocket expenses are required to do so.",
+   "who_may_qualify": [
+    "Anyone, whether an individual or an organization, that owned or leased an eligible Hyundai or Kia vehicle as of April 14, 2025, or had owned or leased one earlier, is part of the settlement class, provided the vehicle was first sold or leased in the U.S. or its territories.",
+    "Vehicle eligibility is decided by the VIN, which can be entered in a lookup tool to see whether a given car is covered.",
+    "Owners of vehicles that were never recalled can still file for the residual payment, and no out-of-pocket expenses are required to do so."
+   ],
+   "official_site": "https://www.acusettlement.com/hyundaikia"
+  },
+  {
+   "name": "Toyota Airbag Control Unit ZF-TRW Settlement",
+   "slug": "ss-toyota-airbag-control-unit-zf-trw-settlement",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-toyota-airbag-control-unit-zf-trw-settlement",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-toyota-airbag-control-unit-zf-trw-settlement",
+   "claim_deadline": "2028-12-11"
+  },
+  {
+   "name": "Sanyo solar panels delamination",
+   "slug": "ss-sanyo-solar-panels-delamination-3",
+   "details_url": "https://claimfinder.greyridgesignals.ai/s/ss-sanyo-solar-panels-delamination-3",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-sanyo-solar-panels-delamination-3",
+   "claim_deadline": "2029-12-31"
+  },
+  {
+   "name": "CertainTeed Horizon Shingles Settlement",
+   "slug": "ss-certainteed-horizon-shingles-settlement",
+   "details_url": "https://rezearcher.github.io/s/ss-certainteed-horizon-shingles-settlement/",
+   "claim_url": "https://claimfinder.greyridgesignals.ai/s/ss-certainteed-horizon-shingles-settlement",
+   "claim_deadline": "2030-03-02",
+   "summary": "Owners of buildings in the United States where CertainTeed Fiberglass Horizon Shingles were put on between 1995 and 2010 and show Qualifying Damage may submit a claim.",
+   "who_may_qualify": [
+    "Owners of buildings in the United States where CertainTeed Fiberglass Horizon Shingles were put on between 1995 and 2010 and show Qualifying Damage may submit a claim."
+   ],
+   "official_site": "https://www.fiberglasshorizonsettlement.com/"
+  }
+ ]
+}
